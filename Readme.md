@@ -74,9 +74,8 @@ The primary goal is not commercial deployment, but to benchmark and demonstrate 
 
 1. **Clone the repository:**
 ```bash
-
-cd rpa-simulation
-
+git clone https://github.com/Fathir-Afatar/RPA-Simulation-Tool-Django-Based-.git
+cd RPA-Simulation-Tool-Django-Based-
 ```
 2. Install virtual environement
 
