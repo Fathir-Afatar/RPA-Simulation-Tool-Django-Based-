@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+message: "If you use this software or its associated research preprint, please cite it as below."
+authors:
+  - family-names: "Afatar"
+    given-names: "Fathir"
+title: "RPA-Simulation-Tool-Django-Based-"
+version: 1.0.0
+date-released: 2026-10-27
+url: "https://github.com/Fathir-Afatar/RPA-Simulation-Tool-Django-Based-.git"
+identifiers:
+  - type: doi
+    value: "10.5281/zenodo.24135541"
